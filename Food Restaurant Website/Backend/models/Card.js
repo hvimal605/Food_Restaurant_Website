@@ -43,14 +43,14 @@ CardSchema.post("save",async function(doc){
             host:"smtp.gmail.com",
             
             auth:{
-                user:"hvimal605@gmail.com",
-                pass:"ntee zquv jwcs fzuh",
+                user:"host@gmail.com",
+                pass:"",
             },
         })
 //send mail
         let info = await transporter.sendMail({
             from:`harshkvima`,
-            to:"22cd3012@rgipt.ac.in",
+            to:"sample@gmail.com",
             subject:" 🔔New Food Card Added on Your Website HarshMeal",
             html:`<h2> Hello HarshMeal Admin &#128075;</h2> <p>New Food Item &#127860; Added <br> view here : <a href ="${doc.photo}">${doc.photo}</a>
             <br> ${doc.itemName} ,${doc.price} , ${doc.category} </p>`,

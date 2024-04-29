@@ -1,0 +1,97 @@
+/* RestaurantAdmin.css */
+
+/* Base styles */
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Protest+Riot&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Signika+Negative:wght@600&display=swap');
+
+
+
+.restaurant-admin {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #e8108e5a;
+  min-height: 100vh;
+}
+
+.admin-header {
+  background-color: #a507da;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Protest Riot', sans-serif;
+}
+
+.admin-container {
+  /* display: flex;
+  justify-content: space-between; */
+  max-width: 1200px;
+  margin: 0 auto;
+  font-family: 'Protest Riot', sans-serif;
+
+ 
+}
+
+.admin-sidebar {
+  background-color: #fff;
+  width: 200px;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.admin-sidebar nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.admin-sidebar nav ul li {
+  margin-bottom: 10px;
+  cursor: pointer;
+  font-size: 18px;
+  color: #333;
+  transition: color 0.3s ease;
+}
+
+.admin-sidebar nav ul li:hover {
+  color: #555;
+}
+
+.admin-main-content {
+  flex-grow: 1;
+  padding: 20px;
+}
+
+.admin-main-content h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Additional styles */
+.link-createcards {
+  margin-top: 20px;
+  text-align: center;
+  text-decoration: none;
+  border: 2px solid #333;
+  background-color: #00ff62;
+  color: #141313;
+  padding: 10px 20px;
+  display: inline-block;
+  border-radius: 5px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.link-createcards:hover {
+  background-color: #11c447;
+  color: #fff;
+}
+.link{
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  
+}

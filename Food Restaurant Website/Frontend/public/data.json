@@ -1,0 +1,247 @@
+[
+    {
+        "userId": 1,
+        "id": 1,
+        "title": "Delicious Margherita Pizza",
+        "src": "https://static.vecteezy.com/system/resources/previews/025/446/386/non_2x/tasty-top-view-pizza-italian-traditional-round-pizza-white-background-ai-generative-free-photo.jpg",
+        "body": "Freshly baked pizza topped with tomato sauce, mozzarella cheese, and basil leaves. A classic favorite!",
+        "price": "200₹",
+        "category1":"Veg",
+        "category2":"Extra Cheese"
+    },
+    {
+        "userId": 1,
+        "id": 2,
+        "title": "Pepperoni Pleasure Pizza",
+        "src": "https://img.freepik.com/premium-photo/isolated-pizza-with-mushrooms-olives_219193-8149.jpg",
+        "body": "Satisfy your cravings with this pepperoni-packed pizza, loaded with spicy pepperoni slices and gooey cheese.",
+        
+        "price": "200₹",
+        "category1":"Veg",
+        "category2":"Extra Cheese"
+    },
+    {
+        "userId": 1,
+        "id": 3,
+        "title": "Vegetarian Delight Pizza",
+        "src": "https://thumbs.dreamstime.com/b/supreme-pizza-4816176.jpg",
+        "body": "A medley of fresh vegetables atop a crispy crust, this vegetarian pizza is bursting with flavor and nutrients.",
+        "price": "180₹",
+        "category1":"Veg",
+        "category2":"Extra Cheese"
+    },
+    {
+        "userId": 1,
+        "id": 4,
+        "title": "Supreme Sensation Pizza",
+        "src": "https://thumbs.dreamstime.com/b/delicious-double-pizza-different-sets-ingredients-slices-isolated-over-white-background-288237061.jpg",
+        "body": "Indulge in the ultimate pizza experience with our supreme sensation pizza, loaded with all your favorite toppings.",
+        "price": 270,
+        "category1":"Veg",
+        "category2":"Extra Cheese"
+    },
+    {
+        "userId": 1,
+        "id": 5,
+        "title": "Hawaiian Paradise Pizza",
+        "src": "https://img.freepik.com/free-photo/delicious-italian-pizza-with-tomato-olives-pepperoni-mushrooms-top-view-isolated-white-background-still-life-copy-space_639032-299.jpg",
+        "body": "Transport yourself to the tropics with our Hawaiian paradise pizza, featuring ham, pineapple, and melted cheese.",
+        "price": 220,
+        "category1":"Veg",
+        "category2":"Extra Cheese"
+    },
+    {
+        "userId": 1,
+        "id": 6,
+        "title": "BBQ  Crunch Pizza",
+        "src": "https://media.istockphoto.com/id/172792787/photo/pizza-and-slice.webp?b=1&s=170667a&w=0&k=20&c=Jy-4DwkOKSTpb7eVLplLA3cdQT6fc-qwzDWyQ_uK0nI=",
+        "body": "Experience a flavor explosion with our BBQ chicken crunch pizza, topped with tender chicken, BBQ sauce, and crunchy onions.",
+        "price": 310,
+        "category1":"Veg",
+        "category2":"Extra Cheese"
+    },
+    {
+        "userId": 1,
+        "id": 7,
+        "title": "Mushroom Madness Pizza",
+        "src": "https://t3.ftcdn.net/jpg/01/02/97/10/360_F_102971073_l5ygYH1qCvejA8efcfuAYCRm7epxBEjn.jpg",
+        "body": "For mushroom lovers, our mushroom madness pizza offers a hearty blend of mushrooms, cheese, and savory sauce.",
+        "price": 190,
+        "category1":"Veg",
+        "category2":"Extra Cheese"
+    },
+    {
+        "userId": 1,
+        "id": 8,
+        "title": "Spinach Supreme Pizza",
+        "src": "https://media.istockphoto.com/id/1042948900/photo/pizza-pepperoni-isolated-on-white-background.webp?b=1&s=170667a&w=0&k=20&c=5TZsBkiQFd8FCz1HU1jdSfc-eZbCpkV6vyuxtvsBjWc=",
+        "body": "Get your greens with our spinach supreme pizza, featuring fresh spinach, garlic, and a blend of cheeses.",
+        "price": 260,
+        "category1":"Veg",
+        "category2":"Extra Cheese"
+    },
+    {
+        "userId": 1,
+        "id": 9,
+        "title": "Meat Lover's Dream Pizza",
+        "src": "https://static.vecteezy.com/system/resources/previews/025/446/386/non_2x/tasty-top-view-pizza-italian-traditional-round-pizza-white-background-ai-generative-free-photo.jpg",
+        "body": "Carnivores rejoice! Our meat lover's dream pizza is piled high with sausage, pepperoni, bacon, and ham.",
+        "price": 330,
+        "category1":"Veg",
+        "category2":"Extra Cheese"
+    },
+    {
+        "userId": 1,
+        "id": 10,
+        "title": "Cheese Feast Pizza",
+        "src": "https://thumbs.dreamstime.com/b/tasty-pepperoni-pizza-top-view-hot-flat-lay-isolated-white-background-138316432.jpg",
+        "body": "Indulge in a cheese lover's paradise with our cheese feast pizza, featuring a blend of gooey cheeses atop a crispy crust.",
+        "price": 180,
+        "category1":"Veg",
+        "category2":"Extra Cheese"
+    },
+    {
+        "userId": 1,
+        "id": 11,
+        "title": "Buffalo Chicken Blast Pizza",
+        "src": "https://static.vecteezy.com/system/resources/previews/025/446/386/non_2x/tasty-top-view-pizza-italian-traditional-round-pizza-white-background-ai-generative-free-photo.jpg",
+        "body": "Spice up your meal with our buffalo chicken blast pizza, featuring tangy buffalo sauce, grilled chicken, and blue cheese.",
+        "price": 280,
+        "category1":"Veg",
+        "category2":"Extra Cheese"
+    },
+    {
+        "userId": 1,
+        "id": 12,
+        "title": "Four Cheese Sensation Pizza",
+        "src": "https://img.freepik.com/premium-photo/isolated-pizza-with-mushrooms-olives_219193-8149.jpg",
+        "body": "Experience cheesy bliss with our four cheese sensation pizza, loaded with mozzarella, cheddar, provolone, and Parmesan.",
+        "price": 310,
+        "category1":"Veg",
+        "category2":"Extra Cheese"
+    },
+    {
+        "userId": 1,
+        "id": 13,
+        "title": "Sausage Symphony Pizza",
+        "src": "https://thumbs.dreamstime.com/b/supreme-pizza-4816176.jpg",
+        "body": "Treat your taste buds to a symphony of flavors with our sausage symphony pizza, featuring savory sausage and peppers.",
+        "price": 240,
+        "category1":"Veg",
+        "category2":"Extra Cheese"
+    },
+    {
+        "userId": 1,
+        "id": 14,
+        "title": "Veggie Delight Pizza",
+        "src": "https://thumbs.dreamstime.com/b/delicious-double-pizza-different-sets-ingredients-slices-isolated-over-white-background-288237061.jpg",
+        "body": "For a healthy and delicious option, try our veggie delight pizza, loaded with fresh vegetables and herbs.",
+        "price": 200,
+        "category1":"Veg",
+        "category2":"Extra Cheese"
+    },
+    {
+        "userId": 1,
+        "id": 15,
+        "title": "White Garlic Chicken Pizza",
+        "src": "https://img.freepik.com/free-photo/delicious-italian-pizza-with-tomato-olives-pepperoni-mushrooms-top-view-isolated-white-background-still-life-copy-space_639032-299.jpg",
+        "body": "Indulge in the creamy goodness of our white garlic chicken pizza, featuring tender chicken and a garlic Alfredo sauce.",
+        "price": 330,
+        "category1":"Veg",
+        "category2":"Extra Cheese"
+    },
+    {
+        "userId": 1,
+        "id": 16,
+        "title": "Artichoke and Spinach Pizza",
+        "src": "https://media.istockphoto.com/id/172792787/photo/pizza-and-slice.webp?b=1&s=170667a&w=0&k=20&c=Jy-4DwkOKSTpb7eVLplLA3cdQT6fc-qwzDWyQ_uK0nI=",
+        "body": "For a gourmet twist, try our artichoke and spinach pizza, featuring tangy artichokes and fresh spinach.",
+        "price": 290,
+        "category1":"Veg",
+        "category2":"Extra Cheese"
+    },
+    {
+        "userId": 1,
+        "id": 17,
+        "title": "Pesto Perfection Pizza",
+        "src": "https://t3.ftcdn.net/jpg/01/02/97/10/360_F_102971073_l5ygYH1qCvejA8efcfuAYCRm7epxBEjn.jpg",
+        "body": "Experience the bold flavors of pesto with our pesto perfection pizza, topped with basil pesto, tomatoes, and cheese.",
+        "price": 180,
+        "category1":"Veg",
+        "category2":"Extra Cheese"
+    },
+    {
+        "userId": 1,
+        "id": 18,
+        "title": "Sicilian Sizzle Pizza",
+        "src": "https://media.istockphoto.com/id/1042948900/photo/pizza-pepperoni-isolated-on-white-background.webp?b=1&s=170667a&w=0&k=20&c=5TZsBkiQFd8FCz1HU1jdSfc-eZbCpkV6vyuxtvsBjWc=",
+        "body": "Transport your taste buds to Italy with our Sicilian sizzle pizza, featuring spicy Italian sausage and peppers.",
+        "price": 220,
+        "category1":"Veg",
+        "category2":"Extra Cheese"
+    },
+    {
+        "userId": 1,
+        "id": 19,
+        "title": "Buffalo Cauliflower Pizza",
+        "src": "https://static.vecteezy.com/system/resources/previews/025/446/386/non_2x/tasty-top-view-pizza-italian-traditional-round-pizza-white-background-ai-generative-free-photo.jpg",
+        "body": "For a vegetarian twist on a classic favorite, try our buffalo cauliflower pizza, featuring roasted cauliflower and buffalo sauce.",
+        "price": 270,
+        "category1":"Veg",
+        "category2":"Extra Cheese"
+    },
+    {
+        "userId": 1,
+        "id": 20,
+        "title": "Barbecue Bacon Blast Pizza",
+        "src": "https://thumbs.dreamstime.com/b/tasty-pepperoni-pizza-top-view-hot-flat-lay-isolated-white-background-138316432.jpg",
+        "body": "Satisfy your cravings with our barbecue bacon blast pizza, featuring crispy bacon and tangy barbecue sauce.",
+        "price": 300,
+        "category1":"Veg",
+        "category2":"Extra Cheese"
+    },
+    {
+        "userId": 1,
+        "id": 21,
+        "title": "Pesto Chicken Prestige Pizza",
+        "src": "https://media.istockphoto.com/id/1042948900/photo/pizza-pepperoni-isolated-on-white-background.webp?b=1&s=170667a&w=0&k=20&c=5TZsBkiQFd8FCz1HU1jdSfc-eZbCpkV6vyuxtvsBjWc=",
+        "body": "Elevate your pizza experience with our pesto chicken prestige pizza, featuring grilled chicken and basil pesto.",
+        "price": 240,
+        "category1":"Veg",
+        "category2":"Extra Cheese"
+    },
+    {
+        "userId": 1,
+        "id": 22,
+        "title": "Italian Delight Pizza",
+        "src": "https://thumbs.dreamstime.com/b/supreme-pizza-4816176.jpg",
+        "body": "Experience the flavors of Italy with our Italian delight pizza, featuring Italian sausage, peppers, and onions.",
+        "price": 250,
+        "category1":"Veg",
+        "category2":"Extra Cheese"
+    },
+    {
+        "userId": 1,
+        "id": 23,
+        "title": "Cheesy Garlic Bread Pizza",
+        "src": "https://media.istockphoto.com/id/172792787/photo/pizza-and-slice.webp?b=1&s=170667a&w=0&k=20&c=Jy-4DwkOKSTpb7eVLplLA3cdQT6fc-qwzDWyQ_uK0nI=",
+        "body": "For a twist on a classic appetizer, try our cheesy garlic bread pizza, featuring garlic-infused crust and melted cheese.",
+        "price": 190
+    },
+    {
+        "userId": 1,
+        "id": 24,
+        "title": "Mediterranean Magic Pizza",
+        "src": "https://t3.ftcdn.net/jpg/01/02/97/10/360_F_102971073_l5ygYH1qCvejA8efcfuAYCRm7epxBEjn.jpg",
+        "body": "Transport yourself to the Mediterranean with our Mediterranean magic pizza, featuring olives, feta cheese, and sun-dried tomatoes.",
+        "price": 290
+    },
+    {
+        "userId": 1,
+        "id": 25,
+        "title": "Truffle Temptation Pizza",
+        "src": "https://media.istockphoto.com/id/1042948900/photo/pizza-pepperoni-isolated-on-white-background.webp?b=1&s=170667a&w=0&k=20&c=5TZsBkiQFd8FCz1HU1jdSfc-eZbCpkV6vyuxtvsBjWc=",
+        "body": "Indulge in luxury with our truffle temptation pizza, featuring truffle oil, mushrooms, and Parmesan cheese.",
+        "price": 320
+    }
+]

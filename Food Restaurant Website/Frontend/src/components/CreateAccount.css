@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Protest+Riot&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Signika+Negative:wght@600&display=swap');
+
+
+
+
+
+.container-Createacc {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 4px 8px 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    font-family: 'Protest Riot', sans-serif;
+    margin:20vh auto;
+    border:1px solid black
+}
+
+h2 {
+    text-align: center;
+}
+
+input[type="text"], input[type="password"], input[type="email"] {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin: 10px 0;
+    border: 0.1px solid #131212;
+    border-radius: 5px;
+    background-color: white;
+    font-family: 'Protest Riot', sans-serif;
+}
+input[type="text"]::placeholder{
+    color: black;
+
+}
+input[type="password"]::placeholder{
+    color: black;
+}
+input[type="email"]::placeholder{
+    color: black;
+}
+
+
+input[type="submit"] {
+    width: 100%;
+    background-color: #a64cd7;
+    color: #fff;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Protest Riot', sans-serif;
+
+}
+
+
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+.para{
+    display: inline-block;
+
+}
+.loginLink{
+    margin-left: 6px;
+}

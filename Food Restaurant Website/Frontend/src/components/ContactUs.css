@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Protest+Riot&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Signika+Negative:wght@600&display=swap');
+
+
+
+
+
+
+
+
+
+.containerForm{
+    display: flex;
+    box-shadow: 6px 6px 25px grey;
+    background-color: rgb(252, 247, 247);
+    height: 80vh;
+    width: 80vw;
+    border-radius: 10px;
+    margin-left: 10vw;
+    margin-top: 10vh;
+    
+    
+}
+.contentChat{
+    height: 100%;
+    width: 50%;
+   
+    background-image: linear-gradient(to left, rgba(39, 25, 43, 0.2), rgb(214, 149, 232));
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+border-radius: 10px;
+
+    
+}
+.contentChatINside{
+
+height: 100%;
+width: 90%;
+}
+.contentChatINside p{
+    margin-top: 8%;
+    line-height: 30px;
+    font-size: 20px;
+  font-weight: 200;
+    font-family: 'Protest Riot', sans-serif;
+    
+}
+.location{
+   
+    height: 8%;
+    width:92%;
+    margin: 20px auto;
+    font-family: 'Protest Riot', sans-serif;
+    font-size: 20px;
+   
+}
+.socialMedia{
+   
+    height: 8%;
+    width:92%;
+    margin: 20px auto;
+
+}
+.location img{
+    
+   margin-top: 2px;
+}
+.socialMedia img{
+    margin-top: 2%;
+    margin-left: 3%;
+}
+
+
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   
+    
+    
+    height: 100%;
+    width: 50%;
+     
+     
+    
+}
+.inputs{
+    display: flex;
+    align-items: center;
+    font-family: 'Protest Riot', sans-serif;
+    flex-direction: column;
+    height:80% ;
+    width: 75% ;
+    
+  
+    
+  
+   
+}
+input{
+padding: 1vw;
+margin-top:3%;
+width:90%;
+
+background-color: rgba(128, 128, 128, 0.348);
+border: none;   
+font-size: 17px;
+height:5% ;
+border-radius: 4px;
+
+    
+}
+input::placeholder{
+    color: black;
+    font-family: 'Protest Riot', sans-serif;
+}
+
+textarea{ 
+  padding: 1vw;
+  height: 25%;
+margin-top: 3%;
+ width:90% ;
+ background-color: rgba(152, 149, 149, 0.348);
+ border: none;
+ font-size: 17px; 
+ border-radius: 4px;  
+ font-family: 'Protest Riot', sans-serif;
+
+
+}
+textarea::placeholder{
+    color: black;
+    font-family: 'Protest Riot', sans-serif;
+}
+.submitbtnh{
+    background-color: rgba(153, 44, 255, 0.746);
+    height: 40px;
+    width: 30%;
+    margin-top: 5%;
+font-size: 18px;
+
+   
+    padding: 2px 3px;
+    border: 2px solid black;
+    border-radius: 4px;
+    color: white;
+    font-family: 'Protest Riot', sans-serif;
+}
+
+.contactus{
+    font-size: 40px;
+    font-weight: 800;
+   
+        font-family: 'Protest Riot', sans-serif;
+    margin-top: 7%;
+    
+}
+
+.submitbtn:hover{
+    background-color: rgba(85, 29, 138, 0.547);
+}
+
+
+@media screen and (max-width: 480px) {
+    body {
+      background-color: lightgreen;
+    }
+    .container{
+       
+        height: 65vh;
+        width: 95vw;
+        
+      }
+      .contentChatINside p{
+        font-size: 16px;
+      }
+      .location{
+   
+        font-size: 15px;
+       
+    }
+    input{
+        
+        font-size: 14px;
+        width: 100%;
+    }
+    textarea{ 
+      
+       font-size: 14px; 
+       width: 100%;
+      
+      
+      }
+      .submitbtn{
+       
+        height: 35px;
+        width: 55%;
+        
+    font-size: 12px;
+    
+       
+        padding: 5px 5px;
+       
+        
+    }
+    .contactus{
+        font-size: 27px;
+        font-weight: 500;
+    }
+    
+  }
+  
+

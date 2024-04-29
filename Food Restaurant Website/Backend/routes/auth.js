@@ -86,7 +86,7 @@ router.post("/signup",(req,res)=>{
             bcrypt.compare(password, savedUser.password).then((match) => {
                 if (match) {
                     // Check if the user is an admin
-                    if (email === 'hvimal605@gmail.com' && password === 'Harsh#12345678') {
+                    if (email === 'admin@gmail.com' && password === 'admin#12345678') {
                         // If user is admin, redirect to admin portal
                         const token = jwt.sign({ _id: savedUser.id }, jwt_secret);
                         res.json({ token: token, isAdmin: true });

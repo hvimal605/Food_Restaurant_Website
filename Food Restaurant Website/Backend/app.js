@@ -15,7 +15,7 @@ app.use(require('./routes/createPost'))
 
 
 
-mongoose.connect("mongodb+srv://hvimal605:ZdZubuYFXqSCqMmQ@cluster0.yxflxwn.mongodb.net/trial");
+mongoose.connect("mongodb url");
 
 mongoose.connection.on("connected", () => {
     console.log("successfully connected to mongo")

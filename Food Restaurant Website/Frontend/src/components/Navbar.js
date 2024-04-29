@@ -78,7 +78,7 @@ const [isOpen, setIsOpen] = useState(false);
                     <span className="material-symbols-outlined phoneintalk">
                         phone_in_talk
                     </span>
-                    <span className="number">9528932927</span>
+                    <span className="number">1234567890</span>
 
                     <span><button className="btn open-button"><Link to="/login">LOGIN</Link></button></span>
 

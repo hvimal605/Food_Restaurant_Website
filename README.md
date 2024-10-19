@@ -66,5 +66,4 @@
 <h3>Admin Panel:</h3>
 <img src="https://i.ibb.co/3MpjvSN/Screenshot-2024-04-28-145054.png" alt="Admin Panel Screenshot" width="600">
 <img src="https://i.ibb.co/HK7kFwJ/Screenshot-2024-04-28-145258.png" alt="Admin Panel Screenshot" width="600">
-<h2>📝 License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+

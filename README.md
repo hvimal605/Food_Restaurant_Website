@@ -62,8 +62,8 @@
 
 <h2>🖼️ Screenshots</h2>
 <h3>User Dashboard:</h3>
-<img src="https://i.ibb.co/ysZKZfQ/Screenshot-2024-04-28-125539.png" alt="User Dashboard Screenshot" width="">
 <img src="https://i.ibb.co/zNJNpPk/Screenshot-2024-04-28-125858.png" alt="User Dashboard Screenshot" width="">
+<img src="https://i.ibb.co/4JnVcMq/Screenshot-2024-04-28-132325.png" alt="User Dashboard Screenshot" width="600">
 <img src="https://i.ibb.co/4JnVcMq/Screenshot-2024-04-28-132325.png" alt="User Dashboard Screenshot" width="600">
 
 <h3>Admin Panel:</h3>
